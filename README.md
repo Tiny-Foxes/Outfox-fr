@@ -13,9 +13,11 @@ French (fr) Translation for StepMania 5.3 "Outfox" / Traduction française de St
     * Song => Chanson
     * Course => Série
     * Chart => Partition
+    * Judgment => Evaluation
     * BPM (beats per minute) => BPM (battements par minute)
     * Single/Double => Individuel/Double
     * Easy/Medium/Hard => Facile/Moyen/Difficile
+    * Announcer => Commentateur
 
 # Advice / Conseils
 
