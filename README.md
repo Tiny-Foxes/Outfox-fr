@@ -19,6 +19,22 @@ French (fr) Translation for StepMania 5.3 "Outfox" / Traduction française de St
     * Easy/Medium/Hard => Facile/Moyen/Difficile
     * Announcer => Commentateur
 
+    * Taps=Pas
+    * Jumps=Sauts
+    * Hands=Mains
+    * Holds=Tenues
+    * Mines=Mines
+    * Rolls=Répét.
+    * Lifts=Lâchers
+    * Fakes=Feintes
+
+    * Flawless=Impeccable
+    * Perfect=Parfait
+    * Great=Super
+    * Good=Bon
+    * Bad=Mauvais
+    * Miss=Raté
+
 # Advice / Conseils
 
 **EN** Careful with word length. English is shorter than French. Make sure to check the screens you're translating, to ensure all the text is still properly displayed, and isn't cut off somewhere. However, themes scale with the display so if it fits in 1080p, it should fit with others resolutions, so you don't need to check all resolutions.
