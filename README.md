@@ -13,7 +13,7 @@ French (fr) Translation for StepMania 5.3 "Outfox" / Traduction française de St
     * Song => Chanson
     * Course => Série
     * Chart => Partition
-    * Judgment => Evaluation
+    * Judgment => Jugement
     * BPM (beats per minute) => BPM (battements par minute)
     * Single/Double => Individuel/Double
     * Easy/Medium/Hard => Facile/Moyen/Difficile
@@ -30,7 +30,7 @@ French (fr) Translation for StepMania 5.3 "Outfox" / Traduction française de St
 
     * Flawless=Impeccable
     * Perfect=Parfait
-    * Great=Super
+    * Great=Génial
     * Good=Bon
     * Bad=Mauvais
     * Miss=Raté
@@ -42,4 +42,6 @@ French (fr) Translation for StepMania 5.3 "Outfox" / Traduction française de St
 **FR** Attention à la longueur des mots. L'anglais est plus court que le français. Assurez vous de vérifier les écrans que vous traduisez, pour vérifier que tout le texte s'affiche correctement, et qu'il n'y a pas de coupure quelquepart. En revanche, les thèmes s'adaptent à la résolution de l'écran, donc si ça s'affiche bien en 1080p, ca s'affichera bien dans les autres résolutions, vous n'avez pas besoin de vérifier toutes les résolutions.
 
 # Status
-Work in progress, just starting. If you want to help, or spot any mistakes come to the "#french" channel on the Project Moondance/OutFox Discord server. Invite link is available on the website: https://projectmoon.dance/
+60% of default file is translated, 40% of fallback is translated
+
+If you want to help, or spot any mistakes come to the "#french" channel on the Project Moondance/OutFox Discord server. Invite link is available on the website: https://projectmoon.dance/
